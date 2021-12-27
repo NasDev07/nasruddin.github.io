@@ -257,7 +257,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/nas.png") top right;
+  background: url("../img/background.jpg") top right;
   background-size: cover;
   position: relative;
 }
@@ -513,7 +513,7 @@ section {
   color: #82909c;
 }
 .about .image {
-  background: url("../img/nasruddin.jpeg") center center no-repeat;
+  background: url("../img/background1.jpg") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
